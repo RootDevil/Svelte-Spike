@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "axios": "^0.26.1",
+    "firebase": "^9.6.8",
     "sirv-cli": "^2.0.0"
   }
 }
